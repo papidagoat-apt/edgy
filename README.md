@@ -19,7 +19,7 @@ In Vercel dashboard → Your project → Settings → Environment Variables:
 |------|-------|
 | `ANTHROPIC_API_KEY` | Get from console.anthropic.com |
 | `GROQ_API_KEY` | Get from console.groq.com |
-| `ODDS_API_KEY` | `8b1a9b1cf979d86afbe3ce78881cf622` |
+| `ODDS_API_KEY` | `` |
 
 ### Step 4 — Redeploy
 After adding env vars → Deployments → Redeploy
